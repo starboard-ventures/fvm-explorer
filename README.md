@@ -1,6 +1,6 @@
 # fvm-explorer
 Public repo for submitting feedback, reporting bugs, and requesting features for the Starboard FVM Explorer.
-https://wallaby-fvm.starboard.ventures/
+https://fvm.starboard.ventures/
 
 ## About Starboard:
 With the growing adoption of Web3 data services such as blockchain, smart contracts, NFT, and decentralized data storage and retrieval, economic networks around Web3 data and data services are emerging quickly. 
@@ -13,7 +13,7 @@ Starboard aims to close the above mentioned gaps and empower the success of Web3
 - Website: https://www.starboard.ventures/
 - Twitter: https://twitter.com/Starboard_V
 - Filecoin Network Health Dashboard: https://dashboard.starboard.ventures/
-- FVM Explorer (Wallaby Testnet): https://wallaby-fvm.starboard.ventures/
+- FVM Explorer (Wallaby Testnet): https://fvm.starboard.ventures/
 - Research Notebooks: https://observablehq.com/@starboard
 - Storage Provider Reputation Dashboard: https://sprd.starboard.ventures/
 - ROI calculator: https://sproi.starboard.ventures/ 
