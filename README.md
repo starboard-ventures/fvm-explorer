@@ -13,9 +13,8 @@ Starboard aims to close the above mentioned gaps and empower the success of Web3
 - Website: https://www.starboard.ventures/
 - Twitter: https://twitter.com/Starboard_V
 - Filecoin Network Health Dashboard: https://dashboard.starboard.ventures/
-- FVM Explorer (Wallaby Testnet): https://fvm.starboard.ventures/
+- FVM Explorer: https://fvm.starboard.ventures/
 - Research Notebooks: https://observablehq.com/@starboard
-- Storage Provider Reputation Dashboard: https://sprd.starboard.ventures/
 - ROI calculator: https://sproi.starboard.ventures/ 
 
 For access to Filecoin data, please check out Spacescope (https://spacescope.io/), a platform that provides reliable, verifiable, and composable data intelligence for blockchain networks. GitHub: https://github.com/Spacescope
